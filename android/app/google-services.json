@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530253534320",
+    "project_id": "p2-mobile-dev",
+    "storage_bucket": "p2-mobile-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530253534320:android:80cd7b109b6d0c8c74d0b5",
+        "android_client_info": {
+          "package_name": "com.jirayuapi.project_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530253534320-j52sc16ag951vssjdq07hirfvo83rsol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7QBZ1bBj0AI8sRKtiqSdJ91KcPRDPlpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530253534320-j52sc16ag951vssjdq07hirfvo83rsol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
